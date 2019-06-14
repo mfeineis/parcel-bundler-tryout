@@ -3,6 +3,8 @@ dist/
 private/
 prod/
 
+package-lock.json
+
 # parcel
 .cache
 
